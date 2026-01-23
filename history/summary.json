@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 169,
-    "timeWeek": 202,
+    "time": 180,
+    "timeDay": 110,
+    "timeWeek": 181,
     "timeMonth": 194,
-    "timeYear": 182,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 251,
-    "timeDay": 144,
-    "timeWeek": 165,
-    "timeMonth": 242,
-    "timeYear": 251,
+    "time": 253,
+    "timeDay": 424,
+    "timeWeek": 210,
+    "timeMonth": 243,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-12-31": 11,
       "2025-12-29": 11
@@ -43,16 +43,16 @@
     "url": "https://molview.org/",
     "icon": "https://icons.duckduckgo.com/ip3/molview.org.ico",
     "slug": "molview",
-    "status": "up",
-    "uptime": "98.57%",
+    "status": "down",
+    "uptime": "98.59%",
     "uptimeDay": "98.06%",
     "uptimeWeek": "96.74%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "98.59%",
     "time": 769,
-    "timeDay": 668,
-    "timeWeek": 677,
-    "timeMonth": 673,
+    "timeDay": 609,
+    "timeWeek": 671,
+    "timeMonth": 672,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2026-01-23": 28,
@@ -84,7 +84,7 @@
       "2025-12-28": 47,
       "2025-12-27": 58,
       "2025-12-26": 7,
-      "2025-12-25": 20
+      "2025-12-25": 11
     }
   }
 ]
